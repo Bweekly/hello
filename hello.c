@@ -13,5 +13,8 @@
     printf("Braydon Weekly!!\n");
     printf("Major: Computer Engineering!\n");
 
+    printf("Alex Busch\n");
+    printf("Computer Science\n");
+
     return 0;
  }
